@@ -1,34 +1,63 @@
-# OmniStack-11
+<!--
+*** Obrigado por estar vendo este README. Se você tiver alguma sugestão
+*** que possa melhorá-lo ainda mais, dê um fork no repositório e crie uma Pull
+*** Request ou abra uma Issue com a tag "sugestão".
+*** Obrigado novamente!
+-->
 
-![heroes](https://user-images.githubusercontent.com/33500059/81244241-39047700-8fe8-11ea-8077-3770997c0443.png)
-O que é o Projeto?
-Este projeto foi desenvolvido durante a 11ª Semana OmniStack ministrada pelo Diego Fernandes da RocketSeat, utilizando as seguintes tecnologias:
+<!-- PROJECT LOGO -->
 
-Node.js
-Express
-React
-Expo
-React Native
-A RocketSeat possui uma comunidade imensa de programadores e você pode participar clicando aqui!
+<h4 align="center">
+<img src="./mobile/src/assets/logo@2x.png" width="250px" /><br>
+ <b>Seja um herói!</b>
+</h4>
+<p align="center">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
+</p>
 
-O que é o Be the Hero?
-Be the Hero é um projeto que visa ajudar uma instituição de caridade a se manter financeiramente. Nele, é possível que uma ONG (organização não governamental) cadastre casos e deixe visível para que pessoas possam contribuir financeiramente, se tornando heróis de uma causa.
+<br>
 
-O que é e qual a importância de ajudar uma ONG?
-As ONGs são entidades privadas da sociedade civil cujo propósito é defender e promover uma causa. Essa causa pode ser de qualquer tipo: direitos humanos, direitos dos animais, direitos indígenas, gênero, luta contra o racismo, meio ambiente, questões urbanas, imigrantes, entre muitos outros. Como não possuem fins lucrativos, as ONGs precisam buscar formas alternativas para continuar em atividade. Para isso, contam com o apoio financeiro de outras entidades privadas (do terceiro setor ou do empresariado), de pessoas físicas (cidadãos conscientes e engajados como eu e você) e até mesmo do governo, que pode fornecer recursos e apoio para atividades em que ambos possam unir forças.
+<!-- ABOUT THE PROJECT -->
 
-Contribuição
-Qualquer contribuição que você fizer será muito apreciada. Para isso, siga os passos a seguir:
+### O que é o Projeto?
+Este projeto foi desenvolvido durante a **11ª Semana OmniStack** ministrada pelo [Diego Fernandes](https://github.com/diego3g) da [RocketSeat](https://github.com/Rocketseat), utilizando as seguintes tecnologias:
 
-Faça um Fork do projeto
-Crie uma Branch para sua Feature (git checkout -b feature/myFeature)
-Adicione suas mudanças (git add .)
-Comite suas mudanças (git commit -m 'sua mensagem')
-Faça o push da branch (git push origin feature/myFeature)
-Abra uma Pull Request e aguarde aprovação
-Se você não sabe o que é ou como realizar um fork, siga os passos deste tutorial.
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [React](https://pt-br.reactjs.org/)
+- [Expo](https://expo.io/)
+- [React Native](https://reactnative.dev/)
 
-Licença
-Esse projeto está distribuído sob a licença MIT. Veja o arquivo LICENSE para mais informações.
+A **RocketSeat** possui uma comunidade imensa de programadores e você pode participar clicando [aqui](https://discordapp.com/invite/gCRAFhc)!
 
-By Tarcisio Valentim
+### O que é o Be the Hero?
+
+**Be the Hero** é um projeto que visa ajudar uma instituição de caridade a se manter financeiramente. Nele, é possível que uma ONG (organização não governamental) cadastre casos e deixe visível para que pessoas possam contribuir financeiramente, se tornando heróis de uma causa.
+
+### O que é e qual a importância de ajudar uma ONG? 
+As ONGs são entidades privadas da sociedade civil cujo propósito é defender e promover uma causa. Essa causa pode ser de qualquer tipo: **direitos humanos**, **direitos dos animais**, **direitos indígenas**, **gênero**, **luta contra o racismo**, **meio ambiente**, **questões urbanas**, **imigrantes**, entre muitos outros. Como não possuem fins lucrativos, as ONGs precisam buscar formas alternativas para continuar em atividade. Para isso, contam com o apoio financeiro de outras entidades privadas (do terceiro setor ou do empresariado), de pessoas físicas (cidadãos conscientes e engajados como eu e você) e até mesmo do governo, que pode fornecer recursos e apoio para atividades em que ambos possam unir forças. 
+
+<!-- CONTRIBUTING -->
+
+## Contribuição
+
+Qualquer contribuição que você fizer será **muito apreciada**. Para isso, siga os passos a seguir:
+
+1. Faça um Fork do projeto
+2. Crie uma Branch para sua Feature (`git checkout -b feature/myFeature`)
+3. Adicione suas mudanças (`git add .`)
+4. Comite suas mudanças (`git commit -m 'sua mensagem'`)
+5. Faça o push da branch (`git push origin feature/myFeature`)
+6. Abra uma Pull Request e aguarde aprovação
+
+Se você não sabe o que é ou **como realizar um fork**, siga os passos [deste tutorial](http://gabsferreira.com/forkando-e-clonando-um-repositorio-no-github/).
+
+<!-- LICENSE -->
+
+### Licença
+
+Esse projeto está distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais informações.
+
+---
+
+By_Tarcisio_Valentim
