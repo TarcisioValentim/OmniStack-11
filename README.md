@@ -31,4 +31,4 @@ Se você não sabe o que é ou como realizar um fork, siga os passos deste tutor
 Licença
 Esse projeto está distribuído sob a licença MIT. Veja o arquivo LICENSE para mais informações.
 
-Feito com ❤️ por Ana Carolina Hernandes
+By Tarcisio Valentim
